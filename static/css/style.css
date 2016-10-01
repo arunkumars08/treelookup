@@ -51,3 +51,14 @@
 .bold_class {
     font-weight: bold;
 }
+
+.rec-con {
+    display: table-row;
+}
+
+.recent-item {
+    padding: 5px;
+    display: inline-block;
+    margin: 5px;
+    border: 1px solid #ddd;
+}
