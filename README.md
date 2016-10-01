@@ -15,3 +15,8 @@ Extras:
 
 1. Improve the feature by adding recent searched feature
 2. Use the same feature to implement dynamic programming to enable faster rendering of results instead of going through the traversal again, for the numbers which are indexed.
+
+
+PS.
+
+Look at the demo.png present inside static folder to get the idea of what this is about and how it looks
